@@ -1,4 +1,4 @@
-# K-Means Clustering on Image Data
+# Image Data: K-Means Clustering
 
 ## Overview
 The purpose of this Jupyter Notebook is to demonstrate the implementation of the K-Means clustering algorithm on a synthetic dataset. It explores the algorithm's capability to segment data into clusters and analyzes the impact of outliers on clustering performance.
